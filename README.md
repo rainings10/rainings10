@@ -18,8 +18,8 @@ Senior software engineer building scalable systems for search, knowledge, and da
 ### GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rainings10&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainings10&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=rainings10&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rainings10&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Senior software engineer building scalable systems for search, knowledge, and da
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rainings10&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=1" alt="GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=rainings10&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=1" alt="GitHub trophies" />
 </p>
 
 ---
